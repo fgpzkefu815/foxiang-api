@@ -7,6 +7,7 @@ export default {
       'Access-Control-Allow-Headers': 'Content-Type',
     };
 
+    
     if (request.method === 'OPTIONS') {
       return new Response(null, { headers: cors });
     }
