@@ -5,4 +5,4 @@ compatibility_date = "2024-05-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "foxiang-db"
-database_id = "請把這裡替換成你的資料庫ID"
+database_id = "add0fa8a-6606-479a-adc7-1c00b3fa3ba4"
